@@ -1,5 +1,7 @@
-<html><body>
-<?php echo phpinfo(); ?>
+<html>
+<title> Linspira Developmnent Team </title>
+
+<body>
 <?php
 
 
